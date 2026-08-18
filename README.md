@@ -7,9 +7,9 @@
 💡 Love turning ideas into practical projects
 💻 Improving my programming and problem-solving skills
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-## 🤖 AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-%23102330?style=for-the-badge" />
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-## 📊 Data Science
+### 📊 Data Science
 
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Seaborn-%234C72B0?style=for-the-badge" />
 </p>
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,14 +46,14 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-## 🗄️ Database
+### 🗄️ Database
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-%23006699?style=for-the-badge" />
 </p>
 
-## 🛠️ Tools
+### 🛠️ Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
