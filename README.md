@@ -105,6 +105,6 @@
 
 <div align="center">
 
-<img src="C:\Users\manis\OneDrive\Pictures\Saved Pictures\cat.jfif" width="400">
+<img src="https://pin.it/4EflEK7Gb" width="400">
 
 </div>
