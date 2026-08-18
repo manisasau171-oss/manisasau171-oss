@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="C:\Users\manis\Downloads\banner.png" width="100%" />
+  <img src="banner.png" width="100%" />
 </div>
 
 # Hi 👋 I'm Manisa
