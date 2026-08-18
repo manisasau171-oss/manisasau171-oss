@@ -103,7 +103,7 @@
 
 [![Instagram](https://www.instagram.com/blackswice?igsh=MXhpcW8ycjVqY21jOQ==&igsi=MXhpcW8ycjVqY21jOQ==)
 
-<div align="center">
+<div align="left">
 
 <img src="https://i.pinimg.com/1200x/c9/56/49/c95649ed4ecd549c3df90c2d62459254.jpg" width="400">
 
