@@ -97,11 +97,11 @@
 
 #### 💼 LinkedIn
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manisa-sau-33a856322)
+[![LinkedIn](www.linkedin.com/in/manisa-sau-33a856322)
 
 #### 📸 Instagram
 
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blackswice?igsh=MXhpcW8ycjVqY21jOQ==&igsi=MXhpcW8ycjVqY21jOQ==)
+[![Instagram](https://www.instagram.com/blackswice?igsh=MXhpcW8ycjVqY21jOQ==&igsi=MXhpcW8ycjVqY21jOQ==)
 
 <div align="center">
 
