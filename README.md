@@ -62,6 +62,40 @@
   <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
+### 📚 Currently Learning
 
+| Technology | Progress |
+|:---:|:---:|
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | ████████████████░░░░ 80% |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> | ██████████████░░░░░░ 70% |
+| <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> | ████████████░░░░░░░░ 60% |
+| 🧠 DSA | ██████████░░░░░░░░░░ 50% |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> | ████████████████░░░░ 80% |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | ████████░░░░░░░░░░░░ 40% |
+| <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> | ████████░░░░░░░░░░░░ 40% |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=manisasau171-oss&show_icons=true&theme=tokyonight&hide_border=true">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=manisasau171-oss&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manisasau171-oss&theme=tokyo-night&hide_border=true">
+
+</div>
 
 
