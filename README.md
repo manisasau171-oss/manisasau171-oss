@@ -71,8 +71,8 @@
 | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> | ████████████░░░░░░░░ 60% |
 | 🧠 DSA | ██████████░░░░░░░░░░ 50% |
 | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> | ████████████████░░░░ 80% |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | ████████░░░░░░░░░░░░ 40% |
-| <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> | ████████░░░░░░░░░░░░ 40% |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | ████████████░░░░░░░░ 60% |
+| <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> | ██████████░░░░░░░░░░ 50% |
 
 ---
 
@@ -80,22 +80,31 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manisasau171-oss&show_icons=true&theme=tokyonight&hide_border=true">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=manisasau171-oss&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=manisasau171-oss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="500">
+<img src="https://streak-stats.demolab.com?user=manisasau171-oss&theme=tokyonight&hide_border=true" width="500">
 
 </div>
-
----
 
 ### 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manisasau171-oss&theme=tokyo-night&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manisasau171-oss&theme=tokyo-night&hide_border=true" width="900">
 
 </div>
 
+### 📬 Connect With Me
 
+#### 💼 LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manisa-sau-33a856322)
+
+#### 📸 Instagram
+
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blackswice?igsh=MXhpcW8ycjVqY21jOQ==&igsi=MXhpcW8ycjVqY21jOQ==)
+
+<div align="center">
+
+<img src="C:\Users\manis\OneDrive\Pictures\Saved Pictures\cat.jfif" width="400">
+
+</div>
