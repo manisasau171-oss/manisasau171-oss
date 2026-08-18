@@ -6,6 +6,7 @@
 👁️ Interested in building real-world Computer Vision applications
 💡 Love turning ideas into practical projects
 💻 Improving my programming and problem-solving skills
+💡 "Learn → Build → Fail → Improve → Repeat." 🚀
 
 ## 🛠️ Tech Stack
 
@@ -97,14 +98,20 @@
 
 #### 💼 LinkedIn
 
-[![LinkedIn]("www.linkedin.com/in/manisa-sau-33a856322")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manisa-sau-33a856322/)
 
 #### 📸 Instagram
 
-[![Instagram]("https://www.instagram.com/blackswice?igsh=MXhpcW8ycjVqY21jOQ==&igsi=MXhpcW8ycjVqY21jOQ==")
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blackswice/)
 
 <div align="left">
 
 <img src="https://i.pinimg.com/1200x/c9/56/49/c95649ed4ecd549c3df90c2d62459254.jpg" width="400">
+
+</div>
+
+<div align="center">
+
+#### ⭐ Thanks for visiting my profile!
 
 </div>
