@@ -93,14 +93,6 @@
 
 </div>
 
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manisasau171-oss&theme=tokyo-night&hide_border=true" width="900">
-
-</div>
-
 ### 📬 Connect With Me
 
 #### 💼 LinkedIn
